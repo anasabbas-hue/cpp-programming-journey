@@ -1,4 +1,4 @@
-# my cpp-programming-journey
+# My cpp-programming-journey
 
 Hi! I am a BSCS student at the Virtual University of Pakistan (VU), currently studying **CS201 (Introduction to Programming)** and learning C++ from scratch. I created this repository to save my practice programs and track what I learn along the way.
 
